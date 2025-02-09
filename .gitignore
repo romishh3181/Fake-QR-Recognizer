@@ -1,6 +1,4 @@
 venv
 mlruns
 preprocessed_dt.npz
-"preprocessed_dt.npz" 
-"preprocessed_dt.npz" 
 train_model.ipynb
