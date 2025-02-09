@@ -45,7 +45,7 @@ The web interface allows users to **upload a QR code image** and get an **instan
 ## 📊 Dataset
 
 - **Real QR Codes**: `10,000` images
-- **Fake QR Codes**: `100,000` images (various attack methods: noise, distortion, overlay, blurring)
+- **Fake QR Codes**: `10,000` images (various attack methods: noise, distortion, overlay, blurring)
 - **Format**: `.png`, `.jpg`
 - **Size**: Preprocessed for model training
 
